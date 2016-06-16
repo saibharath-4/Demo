@@ -22,7 +22,7 @@ public class DemoOne {
         System.out.println("GIT DEMO !");
         System.out.println("NEW LINE !");
         System.out.println(c);
-        Sy
+        System.out.println(c);
         
     }
     
