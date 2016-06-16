@@ -18,7 +18,7 @@ public class DemoOne {
         // TODO code application logic here
     	int a=10;
     	int b=20;
-    	int c=10;
+    	int c=a-b;
         System.out.println("GIT DEMO !");
         System.out.println("NEW LINE !");
         System.out.println(c);
