@@ -21,6 +21,7 @@ public class DemoOne {
     	int c=10;
         System.out.println("GIT DEMO !");
         System.out.println("NEW LINE !");
+        System.out.println(c);
         
     }
     
